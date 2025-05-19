@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|c:\\burakerten\\programlama\\c# projelerim\\mini_market management system\\mini_market management system\\mini_market management system\\spalshform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|solutionrelative:mini_market management system\\spalshform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\mini_market management system\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|solutionrelative:mini_market management system\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\mini_market management system\\sellerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|solutionrelative:mini_market management system\\sellerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\mini_market management system\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|solutionrelative:mini_market management system\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\mini_market management system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|solutionrelative:mini_market management system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\mini_market management system\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCAD1A22-F46F-45EF-A6DC-E5DF57595059}|Mini_Market Management System\\Mini_Market Management System.csproj|solutionrelative:mini_market management system\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpalshForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\SpalshForm.cs",
+              "RelativeDocumentMoniker": "Mini_Market Management System\\SpalshForm.cs",
+              "ToolTip": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\SpalshForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Mini_Market Management System\\SpalshForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:40:47.564Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellingForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\SellingForm.cs",
+              "RelativeDocumentMoniker": "Mini_Market Management System\\SellingForm.cs",
+              "ToolTip": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\SellingForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Mini_Market Management System\\SellingForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:40:44.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SellerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\SellerForm.cs",
+              "RelativeDocumentMoniker": "Mini_Market Management System\\SellerForm.cs",
+              "ToolTip": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\SellerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Mini_Market Management System\\SellerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:40:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\ProductForm.cs",
+              "RelativeDocumentMoniker": "Mini_Market Management System\\ProductForm.cs",
+              "ToolTip": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\ProductForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Mini_Market Management System\\ProductForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:40:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Mini_Market Management System\\LoginForm.cs",
+              "ToolTip": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Mini_Market Management System\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:40:30.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "Mini_Market Management System\\CategoryForm.cs",
+              "ToolTip": "C:\\burakerten\\programlama\\c# projelerim\\Mini_Market Management System\\Mini_Market Management System\\Mini_Market Management System\\CategoryForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Mini_Market Management System\\CategoryForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:40:27.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
